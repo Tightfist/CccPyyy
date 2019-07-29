@@ -82,15 +82,15 @@ CTF 难度比较大，没人带很不好入门。有学长营造良好的氛围�
 
 + 学会简单使用 git，做到把本仓库克隆下来，并把自己的 c 代码和 python 代码放入 [gitee](https://gitee.com/) 仓库中
 
-  教程如下：https://www.bilibili.com/video/av36406372?from=search&seid=12660446859347259686
+  教程如下：（Gitee）https://www.bilibili.com/video/av36406372?from=search&seid=12660446859347259686 （GitHub）https://www.bilibili.com/video/av56828976?from=search&seid=12446151549896266549
 
-  注：**由于担心网速问题，我选择的是 gitee 平台，当然你也可以使用 github，两者本质一样**
-
-
+  注：**由于担心网速问题，我选择的是 Gitee 平台，当然你也可以使用 GitHub，两者本质一样**
 
 
 
-完成这三样以后，把仓库地址发到这个邮箱 752110488@qq.com 注明学号和班级，谢谢你们。
+
+
+完成这三样以后，把仓库地址发到这个邮箱 752110488@qq.com 注明学号和班级，谢谢你们。**如果没有完成也没关系，这已经非常难了**。把 c 代码和 python 代码打包发到这个邮箱就行
 
 
 
